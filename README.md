@@ -1,5 +1,5 @@
 # multistep-color-reparation-algorithm
-Multistep Color Reparation (MCR) Algorithm
+Multistep Color Reparation (MCR) Algorithm for Sandstorm Image Enhancement 
 
 The code belongs to the following paper:
 
